@@ -1,6 +1,6 @@
 == README
 
-Rails Tutorial - sample_app - Linux - Heroku ?  - all Postgres
+Rails Tutorial - sample_app - Linux - Heroku sheltered-ravine-2926.herokuapp.com  - all Postgres
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
